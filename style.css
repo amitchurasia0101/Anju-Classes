@@ -55,7 +55,7 @@ nav ul li{
 }
 
 .container1{
-    background-image: url(/bg1.png);
+    background-image: url(bg1.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ h2{
     flex-direction: column;
     height: 450px;
     width: 100vw;
-    background-image: url(/bg32.avif);
+    background-image: url(bg32.avif);
     background-repeat: no-repeat;
     background-position: center center;
     justify-content: center;
@@ -145,7 +145,7 @@ h2{
     
 }
 .img{
-    background-image: url(/anju.jpg);
+    background-image: url(anju.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     
