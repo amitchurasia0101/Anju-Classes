@@ -244,7 +244,7 @@ button {
 }
 @media screen and (max-width: 600px) {
     .container{
-        height: 790px;
+        height: 820px;
         width: 302px;
 
     }
@@ -261,6 +261,9 @@ button {
     }
     h2{
         font-size: 20px;
+    }
+    .container2{
+        height: 750px;
     }
     
 }
