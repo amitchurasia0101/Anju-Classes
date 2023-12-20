@@ -244,7 +244,7 @@ button {
 }
 @media screen and (max-width: 600px) {
     .container{
-        height: 744px;
+        height: 790px;
         width: 302px;
 
     }
